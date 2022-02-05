@@ -39,25 +39,271 @@ Recommended: Griffiths, David J. _Introduction to Quantum Mechanics_. 2nd ed. Ad
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class participation | 5% |
-| Homework: 9 problem sets | 25% |
-| Midterm exam | 30% |
-| Final exam | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework: 9 problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm exam
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1–2 |  {{< br >}}{{< br >}} **1\. Introduction to Nuclear Physics** {{< br >}}{{< br >}} *   Nuclear nomenclature{{< br >}}*   Binding energy and semi-empirical mass formula{{< br >}}*   Radioactive decay {{< br >}}{{< br >}}  | &nbsp; |
-| 3–6 |  {{< br >}}{{< br >}} **2\. Introduction to Quantum Mechanics** {{< br >}}{{< br >}} *   Laws of quantum mechanics{{< br >}}*   States, operators, and eigenvalues{{< br >}}*   Measurement and probability{{< br >}}*   Energy eigenvalue problem{{< br >}}*   Operators and Uncertainty problem {{< br >}}{{< br >}}  | Problem set 1 due @ Lecture 5 |
-| 7–8 |  {{< br >}}{{< br >}} **3\. Radioactive Decay, Part I** {{< br >}}{{< br >}} *   Scattering and tunneling in quantum mechanics{{< br >}}*   Alpha decay {{< br >}}{{< br >}}  | Problem set 2 due @ Lecture 7 |
-| 9–13 |  {{< br >}}{{< br >}} **4\. Energy Levels** {{< br >}}{{< br >}} *   Bound problems{{< br >}}*   Quantum mechanics in 3D: angular momentum{{< br >}}*   Identical particles {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Problem set 3 due @ Lecture 10 {{< br >}}{{< br >}} Problem set 4 due @ Lecture 12 {{< br >}}{{< br >}}  |
-| &nbsp; | Midterm exam (through Lecture 11) | &nbsp; |
-| 14–16 |  {{< br >}}{{< br >}} **5\. Nuclear Structure** {{< br >}}{{< br >}} *   Characteristics of the nuclear force{{< br >}}*   The deuteron{{< br >}}*   Nuclear models {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Problem set 5 due @ Lecture 14 {{< br >}}{{< br >}} Problem set 6 due @ Lecture 16 {{< br >}}{{< br >}}  |
-| 17–18 |  {{< br >}}{{< br >}} **6\. Time Evolution in Quantum Mechanics** {{< br >}}{{< br >}} *   Time-dependent Schrödinger equation{{< br >}}*   Fermi's Golden Rule {{< br >}}{{< br >}}  | Problem set 7 due @ Lecture 18 |
-| 19–20 |  {{< br >}}{{< br >}} **7\. Radioactive Decay, Part II** {{< br >}}{{< br >}} *   Gamma decay{{< br >}}*   Beta decay {{< br >}}{{< br >}}  | Problem set 8 due @ Lecture 20 |
-| 21–25 |  {{< br >}}{{< br >}} **8\. Applications of Nuclear Science** {{< br >}}{{< br >}} *   Interaction of radiation with matter{{< br >}}*   Fusion{{< br >}}*   Fission {{< br >}}{{< br >}}  | Problem set 9 due @ Lecture 23 |
-| &nbsp; | Final exam |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1–2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**1\. Introduction to Nuclear Physics**
+
+*   Nuclear nomenclature
+*   Binding energy and semi-empirical mass formula
+*   Radioactive decay
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3–6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**2\. Introduction to Quantum Mechanics**
+
+*   Laws of quantum mechanics
+*   States, operators, and eigenvalues
+*   Measurement and probability
+*   Energy eigenvalue problem
+*   Operators and Uncertainty problem
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due @ Lecture 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7–8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**3\. Radioactive Decay, Part I**
+
+*   Scattering and tunneling in quantum mechanics
+*   Alpha decay
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due @ Lecture 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9–13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**4\. Energy Levels**
+
+*   Bound problems
+*   Quantum mechanics in 3D: angular momentum
+*   Identical particles
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 3 due @ Lecture 10
+
+Problem set 4 due @ Lecture 12
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm exam (through Lecture 11)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14–16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**5\. Nuclear Structure**
+
+*   Characteristics of the nuclear force
+*   The deuteron
+*   Nuclear models
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 5 due @ Lecture 14
+
+Problem set 6 due @ Lecture 16
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17–18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**6\. Time Evolution in Quantum Mechanics**
+
+*   Time-dependent Schrödinger equation
+*   Fermi's Golden Rule
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 7 due @ Lecture 18
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19–20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**7\. Radioactive Decay, Part II**
+
+*   Gamma decay
+*   Beta decay
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 8 due @ Lecture 20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21–25
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**8\. Applications of Nuclear Science**
+
+*   Interaction of radiation with matter
+*   Fusion
+*   Fission
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 9 due @ Lecture 23
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
