@@ -80,7 +80,7 @@ Original paper introducing the SEMF: Weizsäcker, C. F. v. "[Zur Theorie der Ker
 
 [Short review of the Fourier transform (PDF)]({{< baseurl >}}/resources/mit22_02s12_read_fourier)
 
-Short review of linear algebra: [Introduction to Eigenvalues (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://math.mit.edu/linearalgebra/ila0601.pdf)
+Short review of linear algebra: [Introduction to Eigenvalues (PDF)](http://math.mit.edu/linearalgebra/ila0601.pdf)
 
 Strang, Gilbert. [_Introduction to Linear Algebra_](http://math.mit.edu/linearalgebra/). 4th ed. Wellesley-Cambridge Press, 2009. ISBN: 9780980232714. As used in MIT class [_18.06 Linear Algebra_](/courses/18-06-linear-algebra-spring-2010).
 

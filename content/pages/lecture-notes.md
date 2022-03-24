@@ -150,7 +150,7 @@ Tunneling & scattering
 3.1–3.2
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 7 slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 1.1MB)]({{< baseurl >}}/resources/mit22_02s12_lec07)
+[Lecture 7 slides (PDF - 1.1MB)]({{< baseurl >}}/resources/mit22_02s12_lec07)
 {{< tdclose >}}
 
 {{< trclose >}}
