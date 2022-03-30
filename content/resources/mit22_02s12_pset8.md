@@ -4,6 +4,7 @@ description: This file contains information regarding introduction to applied nu
   physics of problem set 8.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/5939b6d19d9bdd5304bb48d11e973b44_MIT22_02S12_pset8.pdf
 file_type: application/pdf
+parent_uid: 2b806ab8-de03-4595-7471-728bb04aae32
 resourcetype: Document
 title: Problem set 8
 uid: 5939b6d1-9d9b-dd53-04bb-48d11e973b44
